@@ -1,0 +1,14 @@
+name: CKEditor Copy Formatting
+type: module
+description: "Adds the Copy Formatting plugin to CKEditor."
+package: CKEditor
+# core: 8.x
+
+dependencies:
+  - ckeditor
+
+# Information added by Drupal.org packaging script on 2017-07-16
+version: '8.x-1.1'
+core: '8.x'
+project: 'copyformatting'
+
